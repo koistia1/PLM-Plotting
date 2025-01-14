@@ -8,4 +8,4 @@ This program is shared as a Jupyter Notebook.
 Antti Koistinen, Aalto University
 
 ## Acknowledgements
-The Authors acknowledge Ronja Koistinen for providing the initial idea for the project.
+The Authors acknowledge github user [ronjakoi](https://github.com/ronjakoi/) for providing the initial idea for the project. <https://github.com/ronjakoi/video-to-avg-luminance>
